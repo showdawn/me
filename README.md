@@ -1,45 +1,23 @@
-# Sachidananda Singh - GitHub Pages Portfolio
+# Sachidananda Singh
 
-This is a static GitHub Pages portfolio site.
+The personal website of Sachidananda (Sachin) Singh, an engineering leader working in distributed systems and supply chain technology.
 
-## Files
+[Visit the website](https://showdawn.github.io/me/)
 
-```text
-index.html
-styles.css
-script.js
-README.md
-```
+## Pages
 
-## Setup
+- [About](https://showdawn.github.io/me/about/)
+- [Engineering work](https://showdawn.github.io/me/work/)
+- [Writing and interviews](https://showdawn.github.io/me/writing/)
+- [Book](https://showdawn.github.io/me/book/)
+- [Community](https://showdawn.github.io/me/community/)
 
-1. Create a repository named:
+## Maintaining the site
 
-```text
-YOUR_USERNAME.github.io
-```
+The site is static HTML, CSS and JavaScript. Edit the relevant page, keep navigation and metadata consistent, and update the sitemap when adding a page. GitHub Pages publishes the main branch through the existing deployment workflow.
 
-2. Copy these files into the repository root.
+Only public material belongs in this repository. Employment project summaries describe experience and do not include employer source code.
 
-3. Replace every `YOUR_USERNAME` in `index.html` with your GitHub username.
+## Connect
 
-4. Commit and push:
-
-```bash
-git add .
-git commit -m "Create GitHub Pages portfolio"
-git push origin main
-```
-
-5. Open:
-
-```text
-https://YOUR_USERNAME.github.io
-```
-
-## Recommended Customizations
-
-- Add a professional headshot if desired.
-- Link each featured project after creating the repos.
-- Add articles, talks, or media mentions as they become available.
-- Keep metrics accurate and defensible.
+[LinkedIn](https://www.linkedin.com/in/sachidanand/) · [GitHub](https://github.com/showdawn) · [The Attention Layer](https://theattentionlayer.substack.com/)
