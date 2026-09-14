@@ -2,15 +2,15 @@
 
 The personal website of Sachidananda (Sachin) Singh, an engineering leader working in distributed systems and supply chain technology.
 
-[Visit the website](https://showdawn.github.io/me/)
+[Visit the website](https://sachidanandasingh.com/)
 
 ## Pages
 
-- [About](https://showdawn.github.io/me/about/)
-- [Engineering work](https://showdawn.github.io/me/work/)
-- [Writing and interviews](https://showdawn.github.io/me/writing/)
-- [Book](https://showdawn.github.io/me/book/)
-- [Community](https://showdawn.github.io/me/community/)
+- [About](https://sachidanandasingh.com/about/)
+- [Engineering work](https://sachidanandasingh.com/work/)
+- [Writing and interviews](https://sachidanandasingh.com/writing/)
+- [Book](https://sachidanandasingh.com/book/)
+- [Community](https://sachidanandasingh.com/community/)
 
 ## Maintaining the site
 
