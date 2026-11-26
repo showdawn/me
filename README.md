@@ -8,6 +8,7 @@ The personal website of Sachidananda (Sachin) Singh, an engineering leader worki
 
 - [About](https://sachidanandasingh.com/about/)
 - [Engineering work](https://sachidanandasingh.com/work/)
+- [Inventory event reconciliation lab case study](https://sachidanandasingh.com/work/inventory-event-reconciliation/)
 - [Research and review](https://sachidanandasingh.com/research/)
 - [Speaking](https://sachidanandasingh.com/speaking/)
 - [Writing](https://sachidanandasingh.com/writing/)
