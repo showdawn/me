@@ -21,9 +21,9 @@
 .portfolio-card p{color:var(--muted);margin:0 0 16px;line-height:1.48;font-size:14px}
 .portfolio-card a{margin-top:auto;font-size:14px;font-weight:700}
 .sources{padding:43px 0 50px}
-.proof-row{display:grid;grid-template-columns:155px minmax(0,1fr) 140px;gap:16px;align-items:baseline;border-bottom:1px solid var(--line);padding:13px 0;font-size:14px}
+.proof-row{display:grid;grid-template-columns:155px minmax(0,1fr) max-content;gap:16px;align-items:baseline;border-bottom:1px solid var(--line);padding:13px 0;font-size:14px}
 .proof-list{border-top:1px solid var(--line);margin-top:16px}.proof-row{margin:0}.proof-row dd{margin:0}
-.proof-row a:last-child{text-align:right}
+.proof-row dd:last-child{justify-self:end}.proof-row dd:last-child a{display:inline-block;white-space:nowrap}
 .proof-type{color:var(--muted)}
 .case-hero{padding:39px 0 33px}
 .case-hero .case-title{max-width:925px}
@@ -51,12 +51,11 @@
 .portfolio-work{padding-top:24px}.heading-row{margin-bottom:13px}.heading-row a{font-size:12px}
 .portfolio-grid{grid-template-columns:1fr}.portfolio-card{min-height:0}.portfolio-card p{margin-bottom:10px}
 .sources{padding:27px 0}.proof-row{grid-template-columns:1fr;gap:2px}
-.proof-row a:last-child{text-align:left}
+.proof-row dd:last-child{justify-self:start;margin-top:3px}
 .case-hero{padding:18px 0 20px}.factbar,.case-content{grid-template-columns:1fr;gap:16px}
 .case-content{padding-top:23px}.factbar span{margin-top:0}
 }
 .portfolio-hero h1,.case-title{text-wrap:balance}
-@media(min-width:721px){.portfolio-hero h1{font-size:clamp(2.2rem,4.45vw,3.75rem)}.case-hero .case-title{font-size:clamp(2.2rem,4.45vw,3.75rem)}.proof-row{grid-template-columns:185px minmax(0,1fr) 140px}}
+@media(min-width:721px){.portfolio-hero h1{font-size:clamp(2.2rem,4.45vw,3.75rem)}.case-hero .case-title{font-size:clamp(2.2rem,4.45vw,3.75rem)}.proof-row{grid-template-columns:185px minmax(0,1fr) max-content}}
 
 .portfolio-hero .cta,.case-hero .cta{color:#fff}.portfolio-hero .cta:hover,.case-hero .cta:hover{background:var(--navy);color:#fff}.portfolio-hero a:focus-visible,.portfolio-work a:focus-visible,.sources a:focus-visible,.case-hero a:focus-visible{outline:2px solid var(--blue);outline-offset:4px}
-@media(max-width:720px){.proof-row dd a:last-child{text-align:left}}
